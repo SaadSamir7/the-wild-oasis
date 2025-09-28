@@ -254,7 +254,23 @@ The dashboard provides real-time insights including:
 
 ## 🚀 Deployment
 
-The project is configured for easy deployment on Netlify:
+The project is configured for easy deployment on multiple platforms:
+
+### Vercel (Current Deployment)
+
+1. **Build the project**
+
+   ```bash
+   npm run build
+   ```
+
+2. **Deploy to Vercel**
+   - Connect your GitHub repository
+   - Set build command: `npm run build`
+   - Set output directory: `dist`
+   - The `vercel.json` file handles SPA routing
+
+### Netlify
 
 1. **Build the project**
 
