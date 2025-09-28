@@ -2,6 +2,10 @@
 
 A modern, full-featured hotel management application built with React and Supabase. The Wild Oasis provides hotel staff with comprehensive tools to manage cabins, bookings, guests, and daily operations.
 
+## 🚀 Live Demo
+
+**[View Live Application](https://the-wild-oasis-chi-three.vercel.app/)**
+
 ![The Wild Oasis Dashboard](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 ![React](https://img.shields.io/badge/React-18+-blue)
 ![Supabase](https://img.shields.io/badge/Supabase-Backend-green)
